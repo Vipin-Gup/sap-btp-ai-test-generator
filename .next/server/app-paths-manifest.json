@@ -1,0 +1,6 @@
+{
+  "/github/page": "app/github/page.js",
+  "/page": "app/page.js",
+  "/results/page": "app/results/page.js",
+  "/test-generation/page": "app/test-generation/page.js"
+}
